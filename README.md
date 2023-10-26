@@ -7,21 +7,16 @@ You can click the Preview link to take a look at your changes.
 
 # gm👋, I'm 0xmme.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=3000&pause=1000&color=716B94&width=700&height=70&lines=smart+contract+developer;web3+engineer;evm+nerd;open+source+contributor;" alt="Typing SVG" />
- 
  <p><i>
-  Developer of smart contracts, tests and dAppps, participant in hackathons with prize winning projects, contributor to a multichain DEX aggregator</i></p>
+  Full stack developer, participant in hackathons, open source contributor</i></p>
  <br/>
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
 
-- 🔧 I recently contributed to ...a new on-chain DEX aggregator with cross-chain swaps.
-- 🎓 I learned about zero knowledge proofs in... encode ZK bootcamp.
-- 💡 I’m curious about ...ZK proofs and possible appliances.
-- 🌱 I’m currently looking into ...Huff, Cairo.
-- ❄️ I’m open to collaborate on ...Open Source Projects.
+- 🔧 I recently contributed to a new aggregator of decentralized crypto exchanges.
+- 🎓 I learned about zero knowledge proofs and cryptography in the encode ZK bootcamp.
 - 📫 Connect with me or get more info ...[#connnect-with-me-📬📥](#connnect-with-me-📬📥).
 
 </br>
@@ -30,34 +25,28 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
-<a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.cairo-lang.org/wp-content/uploads/2020/12/logo-768x201.png" alt="cairo" width="120" height="30"/> </a>&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 
 ### Development
 
-![Ethererum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)&nbsp;
-<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/foundry-rs/foundry/raw/master/.github/logo.png" alt="foundry" width="30" height="30"/></a>&nbsp;
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)&nbsp;
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="hardhat" width="120" height="30"/> </a>&nbsp;
-![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
-![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)&nbsp;
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
-<a href="https://docs.ethers.org/" target="_blank" rel="noreferrer"> <img src="https://docs.ethers.org/v5/static/logo.svg" alt="ethers" width="60" height="30"/></a>&nbsp;
-![Web3JS](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBB)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBB)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?logo=hardhat&logoColor=fff&style=for-the-badge)&nbsp;
+![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?logo=truffle&logoColor=fff&style=for-the-badge)&nbsp;
+![Web3JS](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp;
+![EthersJS](https://img.shields.io/badge/Ethers.js-3C3C3D?logo=ethersdotjs&logoColor=fff&style=for-the-badge)&nbsp;
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### Database
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
@@ -154,7 +143,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <a href = "https://discordapp.com/users/405426760285421568"><img widthalt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
-<a href = "https://twitter.com/0xmme"><img alt = "Twitter" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href = "https://t.me/0xmme"><img alt = "Telegram" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/manuel-meinert/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:meinert@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;
