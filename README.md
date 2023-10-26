@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 # gm👋, I'm 0xmme.
 
  <p><i>
-  Full stack developer, participant in hackathons, open source contributor</i></p>
+  Full stack developer, participant in hackathons, open source contributor, strong background in database development</i></p>
  <br/>
 
 ## ⚡🙋‍♂️ About Me
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 
 ### Development
@@ -35,12 +36,10 @@ You can click the Preview link to take a look at your changes.
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBB)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?logo=hardhat&logoColor=fff&style=for-the-badge)&nbsp;
-![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?logo=truffle&logoColor=fff&style=for-the-badge)&nbsp;
-![Web3JS](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![EthersJS](https://img.shields.io/badge/Ethers.js-3C3C3D?logo=ethersdotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### Database
 
@@ -54,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 ### Tools and Technologies
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
